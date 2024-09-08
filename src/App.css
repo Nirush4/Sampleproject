@@ -23,6 +23,9 @@ button{
   color: white;
 
 }
+button:hover{
+  background: pink;
+}
 
 @keyframes logo-spin {
   from {
